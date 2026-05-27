@@ -137,19 +137,23 @@ ssh root@127.0.0.1 -p 2222
 
 ## Top Attack IPs
 
-![Top Attack IPs](images/Top Attack IPs.png)
+![Top Attack IPs](images/top_attack_ips.png)
 
 ## Attack Trend
 
-![Attack Trend](images/Attack Trend.png)
+![Attack Trend](images/attack_trend.png)
 
 ## Blocked IP Blacklist
 
-![Blocked IP Blacklist](images/Blocked IP Blacklist.png)
+![Blocked IP Blacklist](images/blocked_ip_blacklist.png)
 
 ## Recent Attack Logs
 
-![Recent Attack Logs](images/Recent Attack Logs.png)
+![Recent Attack Logs](images/recent_attack_logs.png)
+
+## WeChat Alert
+
+![WeChat Alert](images/wechat_alert.png)
 
 项目亮点
 基于 Socket 实现轻量级蜜罐系统
