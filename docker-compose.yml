@@ -1,0 +1,21 @@
+services:
+  honeypot:
+
+    container_name: honeypot
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - "5000:5000"
+      - "2222:2222"
+
+    restart: always
+
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+
+    environment:
+      - TZ=Asia/Shanghai

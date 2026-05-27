@@ -1,0 +1,6 @@
+SECRET_KEY = "honeypot_secret_key"
+
+BLOCK_THRESHOLD = 5
+
+ADMIN_USERNAME = "admin"
+ADMIN_PASSWORD = "123456"
