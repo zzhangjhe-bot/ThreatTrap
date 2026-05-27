@@ -14,3 +14,4 @@ venv/
 
 logs/
 
+GeoLite2-Country.mmdb
